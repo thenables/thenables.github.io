@@ -16,8 +16,8 @@ projects:
  - awaitable
  - pswd
  - slave
- - thenify
- - promise-kernel
+ - bcrypt-then
+ - requisition
 
 # list of maintainers, this won't be sorted
 maintainers:
