@@ -13,11 +13,13 @@ keywords:    Promises
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
- - awaitable
  - pswd
  - slave
  - bcrypt-then
  - requisition
+ - exit-then
+ - timeout-then
+ - lazy-then
 
 # list of maintainers, this won't be sorted
 maintainers:
