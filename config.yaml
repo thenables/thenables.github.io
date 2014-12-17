@@ -20,6 +20,8 @@ projects:
  - exit-then
  - timeout-then
  - lazy-then
+ - thenify
+ - thenify-all
 
 # list of maintainers, this won't be sorted
 maintainers:
